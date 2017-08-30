@@ -1,0 +1,5 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/nimblestninja\/Projects\/hello_flask\/app\/modules\/blog\/static\/sass\/components\/_headings\.scss}line{font-family:\000031}}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}

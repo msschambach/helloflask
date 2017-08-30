@@ -1,0 +1,11 @@
+.idea/
+.venv/
+.env/
+.vscode/
+.DS_Store
+__pycache__/
+
+*.db
+*.log
+
+/app/static/.webassets-cache/
